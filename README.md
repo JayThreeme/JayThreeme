@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Jimmy]!
+# 👋 Hi, I'm Jimmy!
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent graduate with a degree in **Information Technology, specializing in Web Technology**. I love building innovative solutions and learning new technologies to create impactful projects.
 
