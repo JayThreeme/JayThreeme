@@ -53,14 +53,15 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent gr
 ---
 
 ## 📫 Connect with Me
-- 🌐 Personal Website: [jimmyjucarjr.com](https://jimmyjucarjr.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 🌐 Personal Website: [Link](https://jimmyjucarjr.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jimmyjucarjr/)
+- 📧 Email: [Mail](mailto:jayjucarjr@gmail.com)
 
 ---
-
+<!--
 ### ⚡ Fun Fact
 I’m always on the lookout for opportunities to build impactful apps, whether it's tracking job applications or greeting people with a festive single-page app!
+-->
 
 Feel free to explore my repositories and connect with me to collaborate on exciting projects! 😊
 
