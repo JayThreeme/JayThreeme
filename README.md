@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent gr
 ---
 
 ## 🌟 Featured Projects
-- **[OhCrop](https://github.com/your-username/ohcrop)**  
+- **[OhCrop](https://github.com/JayThreeme/OHCrop.git)**  
   *An Android Monitoring and Control System for hydroponic systems.*  
   Technologies: Android Kotlin, C++, Firebase.
 
