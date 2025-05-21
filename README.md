@@ -52,14 +52,14 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent gr
   *An Android Monitoring and Control System for hydroponic systems.*  
   Technologies: Android Kotlin, C++, Firebase.
 
----
+
 
 ## 📫 Connect with Me
 - 🌐 Personal Website: [Link](https://jimmyjucarjr.com)
 - 💼 LinkedIn: [Link](https://www.linkedin.com/in/jimmyjucarjr/)
 - 📧 Email: [Mail](mailto:jayjucarjr@gmail.com)
 
----
+
 <!--
 ### ⚡ Fun Fact
 I’m always on the lookout for opportunities to build impactful apps, whether it's tracking job applications or greeting people with a festive single-page app!
