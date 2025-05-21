@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent graduate with a degree in **Information Technology, specializing in Web Technology**. I love building innovative solutions and learning new technologies to create impactful projects.
 
----
+
 
 ## 🚀 My Tech Stack
 
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent gr
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
----
+
 
 ## 🌟 Featured Projects
 - **[OhCrop](https://github.com/JayThreeme/OHCrop.git)**  
