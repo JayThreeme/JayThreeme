@@ -6,7 +6,14 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent gr
 
 ## 🚀 My Tech Stack
 
+<!--
 ### 🌐 Frontend
+### ⚙️ Backend & Programming
+### 🛠️ Tools & Platforms
+### 🎨 Design & Productivity Tools
+
+-->
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -16,10 +23,10 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent gr
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-272727?logo=figma&logoColor=white)
 
 
-### ⚙️ Backend & Programming
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -30,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent gr
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-### 🛠️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -38,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** and a recent gr
 ![Hostinger](https://img.shields.io/badge/Hostinger-5333ED?logo=hostinger&logoColor=white)
 
 
-### 🎨 Design & Productivity Tools
+
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
